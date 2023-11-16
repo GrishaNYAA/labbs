@@ -1,0 +1,14 @@
+C:\Users\GrishaNYA\RiderProjects\TheFirstLab\TheFirstLab\bin\Debug\net7.0\TheFirstLab.exe
+C:\Users\GrishaNYA\RiderProjects\TheFirstLab\TheFirstLab\bin\Debug\net7.0\TheFirstLab.deps.json
+C:\Users\GrishaNYA\RiderProjects\TheFirstLab\TheFirstLab\bin\Debug\net7.0\TheFirstLab.runtimeconfig.json
+C:\Users\GrishaNYA\RiderProjects\TheFirstLab\TheFirstLab\bin\Debug\net7.0\TheFirstLab.dll
+C:\Users\GrishaNYA\RiderProjects\TheFirstLab\TheFirstLab\bin\Debug\net7.0\TheFirstLab.pdb
+C:\Users\GrishaNYA\RiderProjects\TheFirstLab\TheFirstLab\obj\Debug\net7.0\TheFirstLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GrishaNYA\RiderProjects\TheFirstLab\TheFirstLab\obj\Debug\net7.0\TheFirstLab.AssemblyInfoInputs.cache
+C:\Users\GrishaNYA\RiderProjects\TheFirstLab\TheFirstLab\obj\Debug\net7.0\TheFirstLab.AssemblyInfo.cs
+C:\Users\GrishaNYA\RiderProjects\TheFirstLab\TheFirstLab\obj\Debug\net7.0\TheFirstLab.csproj.CoreCompileInputs.cache
+C:\Users\GrishaNYA\RiderProjects\TheFirstLab\TheFirstLab\obj\Debug\net7.0\TheFirstLab.dll
+C:\Users\GrishaNYA\RiderProjects\TheFirstLab\TheFirstLab\obj\Debug\net7.0\refint\TheFirstLab.dll
+C:\Users\GrishaNYA\RiderProjects\TheFirstLab\TheFirstLab\obj\Debug\net7.0\TheFirstLab.pdb
+C:\Users\GrishaNYA\RiderProjects\TheFirstLab\TheFirstLab\obj\Debug\net7.0\TheFirstLab.genruntimeconfig.cache
+C:\Users\GrishaNYA\RiderProjects\TheFirstLab\TheFirstLab\obj\Debug\net7.0\ref\TheFirstLab.dll
